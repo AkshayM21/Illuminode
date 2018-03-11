@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "869168071865",
+    "firebase_url": "https://stortree.firebaseio.com",
+    "project_id": "stortree",
+    "storage_bucket": "stortree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869168071865:android:828a5ce7465ea6b4",
+        "android_client_info": {
+          "package_name": "akshaym.stortree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869168071865-1q3che3j8ubmuomdhsj5nedvujsnfrh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "akshaym.stortree",
+            "certificate_hash": "39d8cc81b903d64254eedf74c76e65a76b67a3ab"
+          }
+        },
+        {
+          "client_id": "869168071865-l3no36th5fr4dum6e7hmtaslp1efo9i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYwMKiVrgVS2PXiWI4cGU0OzFD04QYFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869168071865-l3no36th5fr4dum6e7hmtaslp1efo9i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
